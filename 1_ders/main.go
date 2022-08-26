@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Merhaba Tekin uygun")
+	fmt.Println("Merhaba Dünya")
 
 }
